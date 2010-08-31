@@ -137,3 +137,6 @@ table {
       padding: 1em 3em;   
       border: none;
     }
+.center {
+  text-align: center;
+}
